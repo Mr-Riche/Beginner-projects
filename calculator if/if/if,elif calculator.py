@@ -18,3 +18,4 @@ elif operation == "*":
     print(
         num_1 * num_2
     )
+
